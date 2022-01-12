@@ -24,9 +24,9 @@ Custom Packs being used on World of SteelCraft SMP
 [Repository](https://github.com/worldofsteelcraft/wosccustompacks)
 
 ### Contact Information:
-- 📪 Email : 
+- Email : 
     - [admins@worldofsteelcraft.tk](mailto:admins@worldofsteelcraft.tk)
     - [dp@dplayzgames06.tk](mailto:dp@dplayzgames06.tk)
 - Facebook Messenger:
-    - [dplayz Games](https://m.me/dplayzgames06)
     - [Scary Master Playz](https://m.me/scarymasterFB)
+    - [dplayz Games](https://m.me/dplayzgames06)
