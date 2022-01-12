@@ -11,7 +11,7 @@
 <p align="center" width="20px">
   <img src="https://files.worldofsteelcraft.tk/assets/web/logo.png" alt="logo" width="30%"/><br>
   <br>
-  World of SteelCraft Project Repository
+  World of SteelCraft Projects Repository
 </p>
 
 #### World of SteelCraft Website
@@ -20,7 +20,7 @@ A website based on Hugo, and a step to move from Wordpress version of the websit
 | [Repository](https://github.com/worldofsteelcraft/woscweb) | [Project Tasks](https://github.com/orgs/worldofsteelcraft/projects/1) |
 
 #### World of SteelCraft Custom Packs
-Custom Packs being used on World of SteelCraft SMP
+Custom Packs being used on World of SteelCraft SMP  
 [Repository](https://github.com/worldofsteelcraft/wosccustompacks)
 
 ### Contact Information:
