@@ -14,14 +14,23 @@
   World of SteelCraft Projects Repository
 </p>
 
-#### World of SteelCraft Website
-A website based on Hugo, and a step to move from Wordpress version of the website  
+---
 
-| [Repository](https://github.com/worldofsteelcraft/woscweb) | [Project Tasks](https://github.com/orgs/worldofsteelcraft/projects/1) |
+#### World of SteelCraft Website
+A website based on Hugo, and a step to move from Wordpress version of the website while keeping the old website feel  
+[![latest tag version](https://img.shields.io/github/v/tag/worldofsteelcraft/woscweb?color=green&style=plastic)](https://github.com/worldofsteelcraft/woscweb/tags)
+[![licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://github.com/worldofsteelcraft/woscweb/blob/main/LICENSE)  
+[Repository](https://github.com/worldofsteelcraft/woscweb) [Project Tasks](https://github.com/orgs/worldofsteelcraft/projects/1) 
+
+---
 
 #### World of SteelCraft Custom Packs
 Custom Packs being used on World of SteelCraft SMP  
-[Repository](https://github.com/worldofsteelcraft/wosccustompacks)
+![latest tag version](https://img.shields.io/github/v/tag/worldofsteelcraft/wosccustompacks?style=plastic)
+![licensed under MIT License](https://img.shields.io/badge/license-MIT-green?style=plastic)  
+[Repository](https://github.com/worldofsteelcraft/wosccustompacks)  
+
+---
 
 ### Contact Information:
 - Email : 
