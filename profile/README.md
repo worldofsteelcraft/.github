@@ -20,7 +20,7 @@
 A website based on Hugo, and a step to move from Wordpress version of the website while keeping the old website feel  
 [![latest tag version](https://img.shields.io/github/v/tag/worldofsteelcraft/woscweb?color=green&style=plastic)](https://github.com/worldofsteelcraft/woscweb/tags)
 [![licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://github.com/worldofsteelcraft/woscweb/blob/main/LICENSE)  
-[Repository](https://github.com/worldofsteelcraft/woscweb) [Project Tasks](https://github.com/orgs/worldofsteelcraft/projects/1) 
+[Repository](https://github.com/worldofsteelcraft/woscweb) | [Project Board](https://github.com/orgs/worldofsteelcraft/projects/1) | [Android App](https://github.com/worldofsteelcraft/woscapp-twa/)
 
 ---
 
@@ -28,8 +28,7 @@ A website based on Hugo, and a step to move from Wordpress version of the websit
 Custom Packs being used on World of SteelCraft SMP  
 ![latest tag version](https://img.shields.io/github/v/tag/worldofsteelcraft/wosccustompacks?style=plastic)
 ![licensed under MIT License](https://img.shields.io/badge/license-MIT-green?style=plastic)  
-[Repository](https://github.com/worldofsteelcraft/wosccustompacks)  
-
+[Repository](https://github.com/worldofsteelcraft/wosccustompacks) | [Project Board](https://github.com/orgs/worldofsteelcraft/projects/2)
 ---
 
 ### Contact Information:
