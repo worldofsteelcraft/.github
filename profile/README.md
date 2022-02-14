@@ -24,7 +24,7 @@ A website based on Hugo, and a step to move from Wordpress version of the websit
 
 ---
 
-#### World of SteelCraft Custom Packs
+#### World of SteelCraft Custom Packs    
 Custom Packs being used on World of SteelCraft SMP  
 ![latest tag version](https://img.shields.io/github/v/tag/worldofsteelcraft/wosccustompacks?style=plastic)
 ![licensed under MIT License](https://img.shields.io/badge/license-MIT-green?style=plastic)  
