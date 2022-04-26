@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <p align="center" width="20px">
-  <img src="https://files.worldofsteelcraft.tk/assets/web/logo.png" alt="logo" width="30%"/><br>
+  <img src="https://github.com/worldofsteelcraft/woscweb/blob/c84badfd9047d38cfd16be168ec1d3de88e57854/themes/WoSCWebCore/static/images/logo.png" alt="logo" width="30%"/><br>
   <br>
   World of SteelCraft Projects Repository
 </p>
@@ -39,3 +39,5 @@ Custom Packs being used on World of SteelCraft SMP
 - Facebook Messenger:
     - [Scary Master Playz](https://m.me/scarymasterFB)
     - [dplayz Games](https://m.me/dplayzgames06)
+- Discord
+    - [https://discord.gg/DEMvpNuyXx](https://discord.gg/DEMvpNuyXx)
